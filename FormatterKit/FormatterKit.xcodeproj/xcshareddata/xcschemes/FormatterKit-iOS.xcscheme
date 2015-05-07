@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5BF35F341AFA486700F14FFE"
-               BuildableName = "FormatterKit-iOS.framework"
+               BuildableName = "FormatterKit.framework"
                BlueprintName = "FormatterKit-iOS"
                ReferencedContainer = "container:FormatterKit.xcodeproj">
             </BuildableReference>
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5BF35F341AFA486700F14FFE"
-            BuildableName = "FormatterKit-iOS.framework"
+            BuildableName = "FormatterKit.framework"
             BlueprintName = "FormatterKit-iOS"
             ReferencedContainer = "container:FormatterKit.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5BF35F341AFA486700F14FFE"
-            BuildableName = "FormatterKit-iOS.framework"
+            BuildableName = "FormatterKit.framework"
             BlueprintName = "FormatterKit-iOS"
             ReferencedContainer = "container:FormatterKit.xcodeproj">
          </BuildableReference>
@@ -94,7 +94,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5BF35F341AFA486700F14FFE"
-            BuildableName = "FormatterKit-iOS.framework"
+            BuildableName = "FormatterKit.framework"
             BlueprintName = "FormatterKit-iOS"
             ReferencedContainer = "container:FormatterKit.xcodeproj">
          </BuildableReference>

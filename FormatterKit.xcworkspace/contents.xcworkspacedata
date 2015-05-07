@@ -4,7 +4,4 @@
    <FileRef
       location = "group:FormatterKit/FormatterKit.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:Example/FormatterKit Example.xcodeproj">
-   </FileRef>
 </Workspace>
